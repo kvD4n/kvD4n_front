@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    align-items: end;
+    color:white;
+    background-color:rgb(85, 85, 85);
+    padding-left: 3rem;
+}
+.name{
+    font-size: 3rem;
+}
